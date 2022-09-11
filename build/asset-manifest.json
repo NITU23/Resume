@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Resume/static/css/main.334cec36.css",
+    "main.js": "/Resume/static/js/main.8495f60c.js",
+    "static/media/pic.jpg": "/Resume/static/media/pic.ba28aa5fc79345824874.jpg",
+    "static/media/Portfolio.png": "/Resume/static/media/Portfolio.608ed040be202aad6ab2.png",
+    "static/media/Foodies.png": "/Resume/static/media/Foodies.975cb2fed3b8cd1f7b21.png",
+    "static/media/Photogram.png": "/Resume/static/media/Photogram.a39e87f9e440da3a07e4.png",
+    "index.html": "/Resume/index.html",
+    "main.334cec36.css.map": "/Resume/static/css/main.334cec36.css.map",
+    "main.8495f60c.js.map": "/Resume/static/js/main.8495f60c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334cec36.css",
+    "static/js/main.8495f60c.js"
+  ]
+}
